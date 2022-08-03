@@ -1,0 +1,1 @@
+export { SelectedAttendeeListTile } from "./SelectedAttendeeListTile";

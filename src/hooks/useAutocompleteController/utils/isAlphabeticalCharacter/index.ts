@@ -1,0 +1,1 @@
+export { isAlphabeticalCharacter } from "./isAlphabeticalCharacter";

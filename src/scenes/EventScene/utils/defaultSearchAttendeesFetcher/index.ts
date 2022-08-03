@@ -1,0 +1,1 @@
+export { defaultSearchAttendeesFetcher } from "./defaultSearchAttendeesFetcher";
