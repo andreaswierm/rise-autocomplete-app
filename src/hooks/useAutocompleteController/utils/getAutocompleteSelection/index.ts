@@ -1,0 +1,1 @@
+export { getAutocompleteSelection } from "./getAutocompleteSelection";
